@@ -8,5 +8,5 @@
 
 2. **Introduction to Computer Vision**
 
-  - CS5670, Spring 2022, Cornell Tech [Homepage](https://www.cs.cornell.edu/courses/cs5670/2022sp/)
+  - CS5670, Spring 2022, Cornell Tech [[Homepage](https://www.cs.cornell.edu/courses/cs5670/2022sp/)]
   - [Lectures](https://www.cs.cornell.edu/courses/cs5670/2022sp/lectures/lectures.html) [Project](https://www.cs.cornell.edu/courses/cs5670/2022sp/projects/projects.html) [Textbook](http://szeliski.org/Book/)
